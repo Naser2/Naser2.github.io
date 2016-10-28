@@ -4,22 +4,7 @@ import Language from './Language';
 // import LanguageList from '../../server/languages';
 
 class LanguageContainer extends Component {
-//   constructor(props) {
-//   super(props);
-//   this.state = { title: '', decription: '', img_src:'', id:''};
-// }
-// // handleInputChange(e) {
-// //   const target = e.target;
-// //   const title = target.setAttribute('title');
-// //   const desc= target.setAttribute('description');
-// //   // const updated = {};
-// //   // updated[name] = value;
-//   this.setState(Language);
-// // }
-// // handleSubmit(e) {
-// //   e.preventDefault();
-// //   // this.props.handleSubmit(this.state);
-// // }
+
   render() {
     //setting data of languages as props for CourseContainer
 //     // let languageList = LanguageList.javascript; Changed this bellow passed the route to data as props

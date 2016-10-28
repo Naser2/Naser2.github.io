@@ -6,7 +6,11 @@ class About extends Component {
       <div className="main-content">
       { <h2>{ this.props.route.title }</h2> }
 <div> <img src={'http://i.imgur.com/seVDNxQ.jpg'}></img></div>
-
+<template>
+   <script type="text/javascript">
+   alert('Hello!');
+   </script>
+</template>
 {/*
         <h2>{ this.props.route.title }</h2> */}
         <p>It’s no surprise that real estate professional Nas upholds a fine results-oriented reputation in the industry. Nas Aka Baba is a young, multi-talented man whose story starts along the west Saharan coast of Africa. Originally from Burkina Faso, it was there that he found passion for music and, at age 17, released an album entitled “Prophecy” with the incredible band, Black Marabouts. He first rose to gain National attention for being talented multilingual artist who rapped in nine languages in a single album in 2001. Prophecy has pioneered  rap in native languages in Burkina and became one of the catalyst for this trend in west Africa.</p>
