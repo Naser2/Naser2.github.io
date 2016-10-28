@@ -1,0 +1,87 @@
+
+.logo{ background-color: lightblue;
+   text-decoration-color: white;
+
+
+}
+.content{
+  color:#000;background:none;
+  font-family:
+  Verdana,sans-serif;
+  font-size:11pt;}
+
+
+
+/*
+Work on header footer, div, and break few ids add nav functio*/
+header*/
+    ul {
+
+    }
+    .content {
+      /*font-family: 'Permanent Marker', cursive;*/
+      background-color:white;
+      font-size:15px;
+      border:1px solid black;
+      border-radius:5%;
+      padding: 1px;
+
+      max-width: 20%;
+      padding: 0px 8px 0px 8px;
+    }
+
+
+    h1 {
+
+      background-color: lightblue;
+      font-size:40px;
+      color: orange;
+      padding:2px;
+      border:3px solid black;
+      border-radius: 5%;}
+
+    h2{
+      font-family:;
+      font-size: 25px;
+      text-align:
+      margin:0px 0 70px 0;
+      color:white;
+    }
+
+p {
+   color: rgba(255,255,255,1);
+   background:#f7c282;
+   /*float:right;*/
+}
+
+
+      li
+      { display:block;
+          padding:5px;}
+
+
+
+
+
+        @media(min-width: 600px){
+          content {
+            background-color: lightblue;
+            width: calc(100%/2);
+            box-sizing:border-box;
+            float:left;
+          }
+        }
+
+        @media(min-width: 900px) {
+          .content {
+            width: calc(100%/4);
+            /*display:inline-block;*/
+             /*float:left;
+            background-color: red;
+            /*border-left:none;
+            border-right:none;*/
+            /*text-align: center;
+
+          }
+        }
+        body.sidebar-first #center,body.sidebar-second #center,body.two-sidebars #center,body.sidebar-first #squeeze,body.sidebar-second #squeeze,body.two-sidebars #squeeze{margin:0;}#wrapper,#wrapper #container .breadcrumb,#wrapper #container #center,#wrapper #container #center .right-corner,#wrapper #container #center .right-corner .left-corner,#wrapper #container #footer,#wrapper #container #center #squeeze{position:static;left:0;padding:0;margin:0;width:auto;float:none;clear:both;background:none;}#wrapper #container #header{height:130px;}#wrapper #container #header h1,#wrapper #container #header h1 a:link,#wrapper #container #header h1 a:visited{text-shadow:none;color:#000;}*/
